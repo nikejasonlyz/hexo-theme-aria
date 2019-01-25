@@ -40,9 +40,8 @@ commentjs:
   none: 這個頁面還沒有評論，現在就驅評論吧！
   comment: 去評論
 
-poweredby: 由 %s 強力驅動
-theme: 主題 %s
-
+poweredby: Email %s
+theme: 木木君的 %s
 
 accessibility:
   prev_page: 上一頁

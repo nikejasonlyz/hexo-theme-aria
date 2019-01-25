@@ -40,8 +40,8 @@ commentjs:
   none: 这个页面还没有评论，现在就去评论吧！
   comment: 去评论
 
-poweredby: 由 %s 强力驱动
-theme: 主题 %s
+poweredby: Email %s
+theme: 木木君的 %s
 
 accessibility:
   prev_page: 上一页
